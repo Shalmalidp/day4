@@ -1,0 +1,54 @@
+.image-number{
+  display: inline-block;
+  text-align: left;
+  padding-bottom: 1px;
+}
+.authors{
+display:inline-block;
+float:right;
+border-sizing:border-box;
+padding: 0px;
+
+}
+.image-caption{
+  display: inline-block;
+  border-sizing:border-box;
+  padding-bottom: 1px;
+  float:right;
+
+
+}
+
+
+/*.octodex.octocat{
+display :inline-block;
+  position: relative;
+  height: 70px;
+  width: 70px;
+  margin:2px;
+
+}*/
+
+.octocat{
+display: inline-block;
+width: 350px;
+height: :450px;
+margin:  5px;
+border-bottom: 1px solid grey;
+float: left;
+
+}
+
+.octocat div img{
+display: inline-block;
+width: 20px;
+float:left;
+}
+
+.octocat img{
+display: inline-block;
+  max-width: 100%;
+  border-sizing:border-box;
+  border: 1px  solid grey;
+}
+
