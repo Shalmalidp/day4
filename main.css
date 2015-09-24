@@ -3,6 +3,9 @@
   color :#999999;
   text-align: left;
   padding-bottom: 1px;
+  font-family:arial;
+  font-size:10px;
+  font-weight: bold;
 }
 .authors{
 display:inline-block;
@@ -51,4 +54,9 @@ border-color: #b4bcc2 transparent transparent transparent;
 position: absolute;
 right:8px;
 bottom:36px;
+}
+
+.image-number:before{
+content:"#";
+
 }
